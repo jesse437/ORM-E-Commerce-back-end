@@ -24,7 +24,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # 4. How to use
 
-### With this command-line application you''ll run command ```npm run start``` and then you can use either Insomia or an extension like Thunder Client to test the api routes. 
+### With this command-line application you''ll run command `npm run start` and then you can use either Insomia or an extension like Thunder Client to test the api routes.
 
 # 5. Deployment
 
@@ -34,7 +34,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## ![alt text](application-img.png)
 
-#### [![Watch the video]](https://github.com/jesse437/ORM-E-Commerce-back-end/blob/main/application-img.png)(https://github.com/jesse437/ORM-E-Commerce-back-end/blob/main/demoORM.mp4)
+#### [![Watch the video](https://github.com/jesse437/ORM-E-Commerce-back-end/blob/main/application-img.png)](https://github.com/jesse437/ORM-E-Commerce-back-end/blob/main/demoORM.mp4)
 
 # 7. Collaborators
 
