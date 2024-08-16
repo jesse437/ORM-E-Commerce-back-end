@@ -24,13 +24,17 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # 4. How to use
 
-###
+### With this command-line application you''ll run command ```npm run start``` and then you can use either Insomia or an extension like Thunder Client to test the api routes. 
 
 # 5. Deployment
 
 ## https://github.com/jesse437/ORM-E-Commerce-back-end
 
 # 6. Visuals
+
+## ![alt text](application-img.png)
+
+## <video controls src="demoORM.mp4" title="Title"></video>
 
 # 7. Collaborators
 
