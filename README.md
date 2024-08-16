@@ -34,7 +34,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## ![alt text](application-img.png)
 
-## <video controls src="demoORM.mp4" title="Title"></video>
+#### <video controls src="demoORM.mp4" title="Title"></video>
 
 # 7. Collaborators
 
