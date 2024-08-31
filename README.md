@@ -28,15 +28,21 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # 5. Deployment
 
-## https://github.com/jesse437/ORM-E-Commerce-back-end
+```md
+https://github.com/jesse437/ORM-E-Commerce-back-end
+```
 
 # 6. Visuals
 
-#### [![Watch the video]](https://github.com/jesse437/ORM-E-Commerce-back-end/blob/main/demoORM.mp4)
+![alt text](<Screenshot 2024-08-30 at 8.02.28 PM.png>)
+
+### [![Watch the video]()](https://github.com/jesse437/ORM-E-Commerce-back-end/blob/main/demoORM.mp4)
 
 # 7. Collaborators
 
-## [Jesus Ruiz Gutierrez](https://github.com/jesse437)
+```md
+[Jesus Ruiz Gutierrez](https://github.com/jesse437)
+```
 
 # 8. Technologies Used
 
